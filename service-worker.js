@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/netreseau/marvel-quiz.git/precache-manifest.b88dc9309f8b83eb0f4bfc608ea8d6fd.js"
+  "/netreseau/marvel-quiz.git/precache-manifest.88196c87f594ac884b859adeabcc82b7.js"
 );
 
 self.addEventListener('message', (event) => {

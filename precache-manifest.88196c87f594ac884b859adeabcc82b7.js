@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "569504da3e54cc338fb19ce1ed409fab",
+    "revision": "8d63f9fb787ae3409cb9ed39ae1fe657",
     "url": "/netreseau/marvel-quiz.git/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/netreseau/marvel-quiz.git/static/css/2.2791bdd4.chunk.css"
   },
   {
-    "revision": "ef2a852729dc0445023f",
+    "revision": "9254b66183a4565c89d8",
     "url": "/netreseau/marvel-quiz.git/static/css/main.7ca44a88.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/netreseau/marvel-quiz.git/static/js/3.a98c69cd.chunk.js"
   },
   {
-    "revision": "ef2a852729dc0445023f",
-    "url": "/netreseau/marvel-quiz.git/static/js/main.f8f48bb0.chunk.js"
+    "revision": "9254b66183a4565c89d8",
+    "url": "/netreseau/marvel-quiz.git/static/js/main.d4e4e3fa.chunk.js"
   },
   {
     "revision": "b7011570f74911a270ba",
